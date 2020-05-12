@@ -2,6 +2,8 @@ this is the main file
 ADD()
 {
 ADD FUNCTION ADDED
+more function added in this github
+test it for free
 }
 
 end of the line
