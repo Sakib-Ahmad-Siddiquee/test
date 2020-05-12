@@ -1,1 +1,7 @@
 this is the main file
+ADD()
+{
+ADD FUNCTION ADDED
+}
+
+end of the line
