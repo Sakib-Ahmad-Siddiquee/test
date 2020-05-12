@@ -4,6 +4,9 @@ ADD()
 ADD FUNCTION ADDED
 more function added in this github
 test it for free
+
+sakib edit this
+exit it
 }
 
 end of the line

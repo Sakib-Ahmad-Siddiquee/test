@@ -1,3 +1,5 @@
 this is the add function
 
 this add function add the two keys
+
+sakib added 2 more function
